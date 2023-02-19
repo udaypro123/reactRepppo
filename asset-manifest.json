@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactRepppo/static/css/main.e0115f3f.css",
+    "main.js": "/reactRepppo/static/js/main.41d95761.js",
+    "static/js/787.2ce1f231.chunk.js": "/reactRepppo/static/js/787.2ce1f231.chunk.js",
+    "index.html": "/reactRepppo/index.html",
+    "main.e0115f3f.css.map": "/reactRepppo/static/css/main.e0115f3f.css.map",
+    "main.41d95761.js.map": "/reactRepppo/static/js/main.41d95761.js.map",
+    "787.2ce1f231.chunk.js.map": "/reactRepppo/static/js/787.2ce1f231.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0115f3f.css",
+    "static/js/main.41d95761.js"
+  ]
+}
