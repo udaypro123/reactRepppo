@@ -7,7 +7,7 @@ const Navbar = () => {
     <div className='navbardiv'>
       <Header />
       <div className='navbarInsidediv'>
-      <img src="../image/blackLogo-10fc2f582f155efcc2c792a97edc1f33.png" alt="" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNaI3k3GEVnCEXd54ISam3Ix7uwWZtIj1nHg&usqp=CAU" alt="" />
 
       <ul>
         <li>Home</li>
