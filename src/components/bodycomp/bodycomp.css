@@ -1,0 +1,31 @@
+.bodycompodiv{
+    height: 310px;
+    width: 390px;
+    background-color: rgb(160, 168, 255);
+    margin: 40px 20px ;
+    z-index: -1;
+}
+
+/* .bodycompodiv:hover{
+    transition: all 0.3s ease-in-out 0s;
+} */
+.relativediv{
+    position:relative;
+    bottom: 6%;
+    left: 7%;
+    height: 220px;
+    width: 335px;
+    background-color: rgb(3, 9, 70);
+   
+}
+
+.relativediv p{
+ text-align: center;
+ margin-top: 12%;
+ font-size: 25px;
+ font-family:  monospace;
+}
+.bodycompodiv img{
+    height: 100%;
+    width: 100%;
+}

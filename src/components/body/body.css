@@ -1,0 +1,12 @@
+.bodyDiv {
+    height: auto;
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 13%;  
+    z-index: -1;
+}
+
+

@@ -1,0 +1,47 @@
+.navbardiv{
+    position: absolute;
+    height: 150px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+}
+.navbarInsidediv{
+height: 150px;
+width: 80%;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.navbarInsidediv img{
+height: 100px;
+width: 15%;
+}
+.navbarInsidediv ul{
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+.navbarInsidediv ul li{
+    list-style: none;
+    margin: 0px 20px;
+    font-size: 25px;
+}
+
+button{
+    height: 50px;
+    border: none;
+    border-radius: 50px;
+    font-size: 20px;
+    width: 150px;
+    background-color: blue;
+    color: white;
+    margin: 0px 30px;
+}
+button:hover{
+    background-color: rgb(251, 251, 251);
+    color: rgb(0, 0, 0);
+}
+
