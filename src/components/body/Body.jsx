@@ -6,7 +6,7 @@ const Body = () => {
         <>
             <div className='bodyDiv'>
                 
-                <Bodycomp img="../image/venti-views-fVy1pyzODvM-unsplash.jpg" name="DWTC" />
+                <Bodycomp img="../image/edgar-torabyan-PVMse-J_dGQ-unsplash.jpg" name="DWTC" />
                 <Bodycomp img="../image/alexis-napoles-TgSBuukB4IA-unsplash.jpg" name="Dxb Airport Concorde D" />
                 <Bodycomp img="../image/edgar-torabyan-PVMse-J_dGQ-unsplash.jpg" name="Maui-Restaurant" />
                 <Bodycomp img="../image/glenn-scott-nG5M7Tysm80-unsplash.jpg" name="Nail-paint bar" />
